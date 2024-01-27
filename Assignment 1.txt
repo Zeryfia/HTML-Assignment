@@ -1,0 +1,28 @@
+1. HTML stands for Hypertext Markup Language, and CSS stands for Cascading Style Sheets.
+2. I would rather use HTML for putting paragraphs of text on a webpage. HTML is the markup language specifically designed for structuring the content of a webpage, including paragraphs, headings, and other textual elements.
+3. I would rather use CSS to change the font and background color of a button. CSS is responsible for styling and presentation, including the visual aspects of elements like fonts, colors, and backgrounds.
+4. An HTML tag is a markup element used to define the structure and content of an HTML document. It consists of an opening tag, content, and a closing tag. For example, `<p>` is an HTML tag used to define a paragraph.
+5. The three parts of an HTML element are the opening tag, content, and closing tag. For example, `<img src="image.jpg" alt="Description">` is an HTML element where `<img>` is the opening tag, `src="image.jpg" alt="Description"` is the content, and `</img>` is the closing tag.
+6. The purpose of the doctype declaration is to inform the browser about the version of HTML being used in the document. It helps the browser render the webpage correctly by following the appropriate rules and standards.
+7. The `<html>` element is the root element of an HTML document. It encapsulates the entire HTML content, including the `<head>` and `<body>` elements.
+8. The purpose of the `<head>` element is to provide metadata and other non-visible information about the HTML document. It contains elements like the document title, character encoding, linked stylesheets, and scripts.
+9. The purpose of the `<body>` element is to contain the visible content of the HTML document, such as text, images, links, and other elements that are displayed on the webpage.
+10. To create a paragraph in HTML, you can use the `<p>` element. For example, `<p>This is a paragraph.</p>`.
+11. To create a heading in HTML, you can use the `<h1>` to `<h6>` elements. The `<h1>` element represents the highest level of heading, while `<h6>` represents the lowest level. For example, `<h1>This is a heading</h1>`.
+12. There are six different levels of headings in HTML, ranging from `<h1>` to `<h6>`. The difference between them is their visual hierarchy and importance, with `<h1>` being the highest level and `<h6>` being the lowest level.
+13. To make text bold and important, you can use the `<strong>` element. For example, `<strong>This text is bold and important.</strong>`.
+14. To make text italicized and add emphasis to it, you can use the `<em>` element. For example, `<em>This text is italicized and emphasized.</em>`.
+15. An element has a parent-child relationship with any nested elements within it. The parent element contains the child element(s) within its opening and closing tags.
+16. If two elements are at the same level of nesting, they are considered siblings. They share the same parent element.
+17. HTML comments can be created using the `<!-- -->` syntax. Anything placed between these comment tags will be ignored by the browser and not displayed on the webpage.
+18. The `<ul>` tag is used to create an unordered list in HTML. It represents a list of items that do not have a specific order or sequence.
+19. The `<ol>` tag is used to create an ordered list in HTML. It represents a list of items that have a specific order or sequence.
+20. The `<li>` tag is used to create list items within both unordered and ordered lists. Each list item represents an individual item within the list.
+21. The `<a>` element is used to create a link in HTML. It allows users to navigate to different web pages or sections within the same page.
+22. An attribute provides additional information about an HTML element. It is placed within the opening tag of an element and consists of a name and a value. For example, in `<img src="image.jpg">`, `src` is the attribute name, and `"image.jpg"` is the attribute value.
+23. The `href` attribute is used to tell links where to go. It specifies the URL or file path that the link should navigate to when clicked.
+24. An absolute link specifies the complete URL or file path to the resource, including the protocol (e.g., http:// or https://). A relative link specifies the path to the resource relative to the current document's location.
+25. The `<img>` element is used to display an image in HTML. It is a self-closing tag and does not require a closing tag.
+26. Images always need to have the `src` attribute, which specifies the source (URL or file path) of the image file, and the `alt` attribute, which providesalternative text for the image. The `alt` attribute is used to describe the image in case it cannot be displayed.
+27. To access a parent directory in a file path, you can use `../`. For example, `../images/image.jpg` would refer to an image file located in the parent directory's "images" folder.
+28. The four main image formats that can be used for images on the web are JPEG (`.jpg`), PNG (`.png`), GIF (`.gif`), and SVG (`.svg`). Each format has its own characteristics and best use cases, such as JPEG for photographs, PNG for images with transparency, GIF for animations, and SVG for scalable vector graphics.
